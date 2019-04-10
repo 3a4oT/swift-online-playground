@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as monaco from 'monaco-editor';
+// import * as monaco from 'monaco-editor-core';
 
 const ReconnectingWebSocket = require('reconnecting-websocket');
 import { listen, MessageConnection } from 'vscode-ws-jsonrpc';
