@@ -6,7 +6,7 @@ Run `yarn` to install all dependencies
 
 ## Development 
 
-Run `yarn start` to install all dependencies
+Run `yarn start` 
 
 ## Build
 
